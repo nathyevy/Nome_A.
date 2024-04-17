@@ -13,7 +13,7 @@ gets(nome);
     printf("%s\n", nome);
 }
  else{
-     printf("seu nome não é válido.");
+     printf("Seu nome não é válido.");
  }
  return 0;
 }
